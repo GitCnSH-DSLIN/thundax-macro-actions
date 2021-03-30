@@ -1,3 +1,5 @@
+# 鼠标键盘自动点击机/回放机
+
 simple tool to play a sequence of mouse clicks and key strokes
 ==============
 This tool will allow you to perform the following operations:
